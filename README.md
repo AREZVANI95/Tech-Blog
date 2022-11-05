@@ -1,4 +1,4 @@
-# Tech-Blogs 
+# Tech-Blog
 
 ## Disclaimer 
 This application is a work in-progress, updating and submitting what I currently have will attempt this again after some feedback and during the weekend.
@@ -20,7 +20,7 @@ Application will be capable to allow a user to check out a tech blog site, in wh
 ![Displaying-Code](/public/images/Tech-Blog-Web.PNG)
 
 ## Deployment Link:
-- https://Will_Add_One_When_Completed.com
+- https://techiest-of-blogs.herokuapp.com
 
 ## Usage:
 - Will Update this Section ones I am further along in the code.
