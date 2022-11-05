@@ -17,7 +17,7 @@ Application will be capable to allow a user to check out a tech blog site, in wh
 
 ## Static Site:
 ![Displaying-Code](/public/images/Coming_soon.png)
-
+![Displaying-Code](/public/images/Tech-Blog-Web.PNG)
 
 ## Deployment Link:
 - https://Will_Add_One_When_Completed.com
